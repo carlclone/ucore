@@ -1,1 +1,4 @@
 # ucore
+
+- [ ] make / makefile
+- [ ] gcc
